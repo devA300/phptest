@@ -1,2 +1,2 @@
 # phptest
-hi this my first project
+hi this my first project php
